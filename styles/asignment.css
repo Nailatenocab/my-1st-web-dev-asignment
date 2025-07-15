@@ -1,0 +1,55 @@
+
+.inter-large-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+nav {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-title{
+    font-weight:bolder;
+    font-size: 60px;
+    color: #4E47FF;
+}
+nav ul li{
+    margin-left: 150px;
+    margin-right: 150px;
+    list-style: none;
+}
+.button-primary{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    width: 132px;
+    height: 48px;
+    border: none;border-radius: 15px;
+}
+.banner-content{
+    text-align: center;
+    font-weight: 900px;
+    height: 150px;
+    font-size: 65px;
+    color:#252432;
+    margin-top: 116px;
+    margin-bottom: 158px;
+}
+.banner{
+    text-align: center;
+    
+
+}
+.banner-bg-color{
+    max-width: 1440px;
+    max-height: 700px;
+}
+.about-action {
+    display:flex;
+    justify-content:space-between;
+    width: 1140px;max-height: 320px;
+    margin:150px;
+    
+}
