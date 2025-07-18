@@ -79,9 +79,10 @@ main{
     border-radius: 48px;
 }
 .user-info{
+    background-color: #c0c0d5;
     padding:80px;50px,
     border-radius: 24px;
-    background-color:gray;
+    
     
 }
 .user-font{
@@ -98,4 +99,8 @@ main{
 .users-info{
     display:flex;
     justify-content: space-around;
+}
+.invitation{
+    text-align: center;
+    background-color: #d0cfe7;
 }
