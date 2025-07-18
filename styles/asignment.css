@@ -62,8 +62,12 @@ nav ul li{
      background-image: url(../Assets/Hero-bg.png);
 }
 main{
-    max-width: 1140px;
+    max-width: auto;
+    margin: 0px;
+}
+main section{
     margin:0px 130px 0px 130px;
+    
 }
 .about-action-item{
     font-weight: bold;
@@ -103,4 +107,8 @@ main{
 .invitation{
     text-align: center;
     background-color: #d0cfe7;
+}
+.user-review{
+    display:flex;
+    justify-content: space-around;
 }
